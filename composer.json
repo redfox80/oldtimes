@@ -1,0 +1,10 @@
+{
+    "name": "joakim/oldtimes",
+    "minimum-stability": "stable",
+    "require": {
+        "nesbot/carbon": "^1.33"
+    },
+    "autoload": {
+        "psr-4": {"App\\": "App/"}
+    }
+}
